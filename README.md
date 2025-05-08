@@ -30,7 +30,7 @@ This project showcases effective data storytelling using Power BI with the popul
 - 📦 Highest sales from Technology category
 
 ## 📷 Dashboard Preview
-![Sales Dashboard](reports/Dashboard_Screenshots/dashboard_sample.png)
+![Sales Dashboard](C:\Users\durga\Desktop\Sales-Data-Storytelling-PowerBI\ScreenShot.png)
 
 ## 📄 License
 MIT License
